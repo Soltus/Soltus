@@ -15,11 +15,11 @@ jobs:
         echo "$(date): Check-in" >> 打卡.md
     - name: Commit changes
       run: |
-        git config --global user.name "GitHub Action"
-        git config --global user.email "action@github.com"
+        git config --global user.name "Soltus"
+        git config --global user.email "liaoshanyi@qq.com"
         git add 打卡.md
         git commit -m "Add daily check-in"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.MY_GH_TOKEN_W }}
