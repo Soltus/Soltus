@@ -14,7 +14,7 @@ jobs:
         token: ${{ secrets.MY_GH_TOKEN_W }}
     - name: Add date to打卡.md
       run: |
-        echo "$(date): Check-in" >> 打卡.md
+        echo "$(date): Check-in\n" >> 打卡.md
     - name: Commit changes
       run: |
         git config --global user.name "Soltus"
