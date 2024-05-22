@@ -19,15 +19,15 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,html,css,js,ts,materialui,androidstudio,au,bitbucket,blender,debian,deno,docker,dotnet,electron,fastapi,github,githubactions,go,ai,kotlin,less,sass,mongodb,obsidian,pnpm,postgres,powershell,react,reactivex,visualstudio,vscode,unity&theme=dark" />
 </p>
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Hi-Windom&fontSize=90&fontAlign=50&fontAlignY=70&desc=6&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
-
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Soltus"><img src="https://img.shields.io/badge/GitHub-Soltus-blue?logo=github" style="cursor:pointer;height: 25px;margin: 1px auto;"/></a>
 <img src="https://img.shields.io/badge/QQ-694357845-blue?logo=tencentqq" style="cursor:pointer;height: 25px;margin: 1px auto;"/>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Soltus&abbreviated=true&color=yellow" style="cursor:pointer;height: 25px;margin: 1px auto;"/>
+</p>
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Hi-Windom&fontSize=90&fontAlign=50&fontAlignY=70&desc=Power%20by%20&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
