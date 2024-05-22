@@ -19,6 +19,11 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,html,css,js,ts,materialui,androidstudio,au,bitbucket,blender,debian,deno,docker,dotnet,electron,fastapi,github,githubactions,go,ai,kotlin,less,sass,mongodb,obsidian,pnpm,postgres,powershell,react,reactivex,visualstudio,vscode,unity&theme=dark" />
 </p>
 
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=Hi-Windom&fontSize=90&fontAlign=50&fontAlignY=70&desc=6&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
+
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Soltus"><img src="https://img.shields.io/badge/GitHub-Soltus-blue?logo=github" style="cursor:pointer;height: 25px;margin: 1px auto;"/></a>
