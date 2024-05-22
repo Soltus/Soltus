@@ -22,7 +22,7 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Soltus"><img src="https://img.shields.io/badge/GitHub-Soltus-blue?logo=github" style="cursor:pointer;height: 25px;margin: 1px auto;"/></a>
-<img src="https://img.shields.io/badge/QQ-694357845-green?logo=tencentqq" style="cursor:pointer;height: 25px;margin: 1px auto;"/>
+<img src="https://img.shields.io/badge/QQ-694357845-blue?logo=tencentqq" style="cursor:pointer;height: 25px;margin: 1px auto;"/>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Soltus&abbreviated=true&color=yellow" style="cursor:pointer;height: 25px;margin: 1px auto;"/>
 </p>
