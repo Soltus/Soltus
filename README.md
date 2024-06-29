@@ -15,7 +15,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Soltus&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true" /> -->
   <!-- https://github.com/anuraghazra/github-readme-stats/pull/2459 -->
-  <img width="420" src="https://github-readme-stats-zeta-azure-65.vercel.app/api?username=Soltus&theme=transparent&show_icons=true&rank_icon=percentile&include_all_commits=true&hide_border=true&show=reviews&hide_title=true&role=owner,collaborator,ORGANIZATION_MEMBER" />
+  <img width="420" src="https://github-readme-stats-zeta-azure-65.vercel.app/api?username=Soltus&theme=transparent&show_icons=true&rank_icon=percentile&number_format=long&include_all_commits=true&hide_border=true&show=reviews&hide_title=true&role=owner,collaborator,ORGANIZATION_MEMBER" />
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <img width="420" src="https://streak-stats.demolab.com?user=Soltus&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
   <br/>
