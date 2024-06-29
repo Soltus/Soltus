@@ -5,7 +5,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Soltus&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true" /> -->
 <!-- https://github.com/anuraghazra/github-readme-stats/pull/2459 -->
-<img align="center" width="400" src="https://github-readme-stats-zeta-azure-65.vercel.app/api?username=Soltus&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&role=owner,collaborator,ORGANIZATION_MEMBER" />
+<img align="center" width="400" src="https://github-readme-stats-git-addroleparam-soltus-projects.vercel.app/api?username=Soltus&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&role=owner,collaborator,ORGANIZATION_MEMBER" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Soltus&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
@@ -15,7 +15,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soltus&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats-zeta-azure-65.vercel.app/api/top-langs/?username=Soltus&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&role=owner,collaborator,ORGANIZATION_MEMBER" />
+<img align="center" src="https://github-readme-stats-git-addroleparam-soltus-projects.vercel.app/api/top-langs/?username=Soltus&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&role=owner,collaborator,ORGANIZATION_MEMBER" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cs,cpp,java,html,css,js,ts,materialui,androidstudio,au,bitbucket,blender,debian,deno,docker,dotnet,electron,fastapi,github,githubactions,go,ai,kotlin,less,sass,mongodb,obsidian,pnpm,postgres,powershell,react,reactivex,visualstudio,vscode,unity&theme=dark" />
