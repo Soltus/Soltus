@@ -18,12 +18,12 @@ jobs:
     - name: Add date to打卡.md
       run: |
         echo "$(date): Check-in
-        " >> 打卡.md
+        " >> .github/打卡.md
     - name: Commit changes
       run: |
         git config --global user.name "Soltus"
         git config --global user.email "liaoshanyi@qq.com"
-        git add 打卡.md
+        git add .
         git commit -m "Add daily check-in"
     - name: Push changes
       run: |
