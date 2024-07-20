@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        token: ${{ secrets.MY_GH_TOKEN_W }}
+        token: ${{ secrets.TOEKN_FOREVER_FULL_WRITE }}
     - name: Add date to打卡.md
       run: |
         echo "$(date): Check-in
@@ -24,4 +24,4 @@ jobs:
         git commit -m "Add daily check-in"
     - name: Push changes
       run: |
-        git push https://Soltus:${{ secrets.MY_GH_TOKEN_W }}@github.com/Soltus/Soltus.git
+        git push https://Soltus:${{ secrets.TOEKN_FOREVER_FULL_WRITE }}@github.com/Soltus/Soltus.git
