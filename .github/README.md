@@ -23,7 +23,7 @@
   <img width="420" src="https://streak-stats.demolab.com?user=Soltus&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
   <br/>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img width="888" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soltus&theme=transparent&hide_border=true&layout=compact&langs_count=30" />
+  <img width="888" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soltus&theme=transparent&hide_border=true&layout=compact&langs_count=28" />
   <br/>
 </p>
 
